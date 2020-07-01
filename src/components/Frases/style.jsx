@@ -6,9 +6,9 @@ export const ContenedorFrase = styled.div`
   max-width: 800px;
   background: #fff;
   position: relative;
-  @media (max-width: 450px) {
+  @media (max-width: 992px) {
     padding: 1rem;
-    margin-top: 1.2rem;
+    margin: 1.2rem;
     h1 {
       font-size: 1rem;
       &::before {
